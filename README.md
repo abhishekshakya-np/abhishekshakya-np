@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - 🔭 I’m currently working on an employment website in Laravel ...<br>
-- 🌱 I’m currently learning php framework Laravel and Sass...<br>
+- 🌱 I’m currently learning php framework Laravel and CSS framework Sass...<br>
 - 👯 I’m looking to collaborate on live hosted web app .<br>
 - 🤔 I’m looking for help with more clean and efficient way to code .<br>
 - 💬 Ask me about designing .<br>
