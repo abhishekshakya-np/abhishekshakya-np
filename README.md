@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 -->
+
 # 💫 About Me:
-- 🔭 I’m currently working on an employment website in Laravel ...<br>
-- 🌱 I’m currently learning php framework Laravel and CSS framework Sass...<br>
-- 👯 I’m looking to collaborate on live hosted web app .<br>
-- 🤔 I’m looking for help with more clean and efficient way to code .<br>
-- 💬 Ask me about designing .<br>
-- 📫 How to reach me: Message .<br>
-- ⚡ Fun fact: Still have no clue how my last code worked .<br><br>
-
-
+- 🔭 I’m currently working on web applications using **Laravel and React**.<br>
+- 💻 I’ve worked on **5+ Laravel projects** and have around **1.5 years of experience with React**.<br>
+- 🌱 I’m currently improving my skills in **clean architecture, scalable code, UI/UX, and modern web development**.<br>
+- 👯 I’m looking to collaborate on **products that solve real problems, attract real users, and have the potential to become something people actually use or pay for**.<br>
+- 🤔 I’m always looking for **cleaner, more efficient, and maintainable ways to write code**.<br>
+- 💬 Ask me about **Laravel, React, frontend development, and UI/UX design**.<br>
+- 📫 How to reach me: **Send me a message**.<br>
+- ⚡ Fun fact: I used to have no clue how my code worked. Now I know what it does... **about half the time. 😄**<br><br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abhishekshakya-np) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhishekshakya-np) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhishekshakya-np) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekshakya-np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekshakya-np) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhishekshakya-np) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhishekshakya-np) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/abhishekshakya-np) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abhishekshakya-np) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abhishekshakya-np) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abhishekshakya-np) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/abhishekshakya-np) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishekshakya-np) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abhishekshakya-np) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhishekshakya-np) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@abhishekshakya-np) 
